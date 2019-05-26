@@ -3,6 +3,7 @@
 ## v0.3.1 (TBA)
 
 * Fixed bug where invited user was not signed in after succesful authorization
+* Fixed bug where releases with Elixir 1.9.0 didn't have `:httpc` available
 
 ## v0.3.0 (2019-05-19)
 
